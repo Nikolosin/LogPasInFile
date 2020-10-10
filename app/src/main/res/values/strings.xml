@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LogPasInFile</string>
+    <string name="error">Введите данные полностью</string>
+    <string name="checkOk">Логин и пароль совпадают</string>
+    <string name="checkNo">Логин и пароль НЕ совпадают</string>
+    <string name="ok">Пользователь зарегестрирован</string>
+    <string name="log">Login</string>
+    <string name="pas">Password</string>
+    <string name="reg">registration</string>
+</resources>
